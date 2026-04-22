@@ -19,7 +19,7 @@
 <br/>
 
 [![Live Dashboard](https://img.shields.io/badge/🚀%20View%20Live%20Dashboard-Power%20BI-F2C811?style=for-the-badge)](https://tinyurl.com/hr-analytics-abhi026)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/abhii026/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhii026/)
 
 <br/>
 
@@ -325,7 +325,7 @@ Avg Years = AVERAGE([YearsAtCompany])
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhii026-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhii026)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/abhii026/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhii026/)
 
 </div>
 
